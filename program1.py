@@ -1,2 +1,2 @@
 
-print 'Program no1 z gita'
+print('Program no1 z gita')
